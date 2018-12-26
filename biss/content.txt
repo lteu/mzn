@@ -1,0 +1,117 @@
+
+
+Multitask learning and learning-to-learn: a statistical learning perspective
+Software security across abstraction layers (SS)
+Internet of things: a data oriented approach
+
+
+
+ Caro Maurizio,
+
+Allego le informazioni. Circa le lezioni non sono disponibile l'11
+marzo e se possibile rientrerei il 14 dopo pranzo.
+Grazie!
+
+Massimiliano
+
+
+%%%%
+
+Massimiliano Pontil
+Istituto Italiano di Tecnologia and University College London
+
+Title:
+Multitask learning and learning-to-learn: a statistical learning perspective
+
+Abstract:
+A fundamental limitation of standard machine learning methods is the
+cost incurred by the preparation of the large training samples
+required for good generalization. A potential remedy is offered by
+multi-task learning: in many cases, while individual sample sizes are
+rather small, there are samples to represent a large number of
+learning tasks, which share some constraining or generative property.
+If this property is sufficiently simple it should allow for better
+learning of the individual tasks despite their small individual sample
+sizes. The course review a wide class of multi-task learning methods,
+describe techniques to solve the underlying optimization problems and
+present an analysis of the generalization performance of these
+learning methods which provides a proof of the superiority of
+multi-task learning under specific conditions. We also highlight the
+link between MTL and learning-to-learn (or meta-learning) and reviews
+recent efforts in this direction.
+
+
+====
+
+My preferred dates would be Mon Mar 11 - Thu Mar 14.
+
+Below is a proposal for title/abstract. If you have any comments or feedback, I would be happy to take that into account.
+
+Title: Software security across abstraction layers.
+
+Abstract:
+The execution infrastructure for today's software applications is
+typically structured in a layered architecture where each layer offers
+abstractions that are supposed to hide some of the implementation
+details of lower layers.
+Many security problems that occur in software applications however
+are very much cross-layer: attacks against applications that are
+running on top of the execution infrastructure often rely at least
+to some extent on implementation details of one or more lower
+layers.
+The objective of this course is to study the problem of software
+security across these various abstraction layers. The course starts
+with an overview of the field of software security, and the definition
+of the core concepts of the field. Next, it covers the security of
+software systems against attackers that have access to lower
+abstraction layers.
+The course will cover both attack techniques as well as defense
+techniques. On the attack side, we give an overview of influential
+attack techniques ranging from classic buffer overflows to the most
+recent micro-architectural attacks like Spectre, Meltdown and
+Foreshadow. On the defense side, the emphasis will be on techniques
+for which strong formal security guarantees can be given, as well
+as on the limitations of such formal guarantees in the field of
+security.
+
+Kind regards,
+
+Frank
+
+=====
+
+
+
+ Cairssimi,
+
+ecco le informazioni per il corso alla BISS 2019.
+Peego di informarmi appena possibile sulla settimana in cui si terrà la 
+Scuola in quanto ho sia lezioni e che visite all'estero a Marzo 2018.
+Immagino possa trattarsi della settimana da Lun 11 a Ven 15 Marzo, su 
+base storica.
+
+Cordiali saluti,
+Luciano
+
+
+INTERNET OF THINGS: A DATA ORIENTED APPROACH
+Abstract. 
+We will introduce the enabling technologies, protocols, 
+software architectures and applications for the development of the 
+Internet of Things (IoT) paradigm. After a short introduction to 
+pervasive computing and the emerging fields of applications (e.g. 
+Industry 4.0, domotics, intelligent transportation systems, wearable 
+devices, etc.) the course will provide an illustration of the enabling 
+components, technologies and standards of IoT systems. These will 
+include the wireless communications among end-devices and towards 
+infrastructures, data processing, languages for the development of 
+applications and prototypes (e.g. Arduino, STM32 Nucleo, etc.). 
+Specifically, the components of a typical IoT system will be illustrated 
+by following a data-oriented approach: from sensor to gateway (data 
+generation on behalf of sensors to data transmission in WSAN, WPAN, 
+WLAN), from gateway to cloud (up to cloud streaming and storages), and 
+from cloud to applications (including the data processing and 
+integration in complex software systems). A short illustration on open 
+issues and bottlenecks will conclude the seminar.
+
+
