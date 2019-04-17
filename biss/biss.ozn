@@ -1,0 +1,2 @@
+output ["Day:"]++[show(assignment[i])++if i mod 8==0 /\ i!=40 then "\nDay:" else " " endif | i in 1..40, ];
+array [1..40] of int: assignment;

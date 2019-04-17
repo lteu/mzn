@@ -1,0 +1,10 @@
+enum ITEM = {panino,vestito,scarpe,sciarpa,annello,libro,carte}; 
+var int:totale;
+int: capacity = 20;
+array[ITEM] of int: valori = [5,20,30,15,100,2,200]; 
+array[ITEM] of int: volumi = [2,10,15,5,1,6,3];
+var set of ITEM: zaino;
+constraint sum (i in zaino) (volumi[i]) <= capacity; 
+constraint totale = sum(i in zaino)(valori[i]);
+solve maximize totale;
+output ["knapsack = \(zaino)\n"++show(totale)];
