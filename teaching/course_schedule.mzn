@@ -24,7 +24,7 @@ constraint
   forall(i in 37..40)(assegnamento[i] = 0);
   
 constraint 
-  forall(i in 2..40)(
+  forall(i in 2..30)(
   assegnamento[i] = assegnamento[i-1]
   \/
   assegnamento[i] = assegnamento[i+1]
